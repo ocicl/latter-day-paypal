@@ -1,0 +1,10 @@
+* latter-day-paypal
+
+Paypal API wrapper
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/K1D77A/latter-day-paypal.git   |
+| commit  | {"messa  |
+| systems | latter-day-paypal |
+|---------+-------------------------------------------|
+
