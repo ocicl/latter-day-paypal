@@ -4,7 +4,7 @@ Paypal API wrapper
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/K1D77A/latter-day-paypal.git   |
-| commit  | {"messa  |
+| commit  | 3c23545  |
 | systems | latter-day-paypal |
 |---------+-------------------------------------------|
 
